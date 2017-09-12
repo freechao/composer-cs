@@ -1,0 +1,20 @@
+{
+    "name": "chao/composer-cs",
+    "description": "ce shi o",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ma Shuchao",
+            "email": "466687248@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ford\\": "model"
+        }
+    }
+}
